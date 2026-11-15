@@ -21,7 +21,7 @@ Featured Projects
 
 [Clothing Brand Sales Analysis](https://github.com/ahmmeddsalahh01/Clothing-Brand-Sales-Analysis-Excel)  Excel, Power Pivot  Sales by category, product, store, and customer across 3,000 orders 
 
-[Food Delivery Performance](https://github.com/ahmmeddsalahh01/Food-Delivery-Performance-Excel)  Excel, Power Pivot | Sales, order funnel, delivery times, customers, restaurants, and riders |=
+[Food Delivery Performance](https://github.com/ahmmeddsalahh01/Food-Delivery-Performance-Excel)  Excel, Power Pivot | Sales, order funnel, delivery times, customers, restaurants, and riders
 
  Let's connect
 
