@@ -12,15 +12,15 @@ Skills
 - Analysis: KPI design, trend analysis, customer and sales segmentation, business recommendations
 
 Featured Projects
-[Egypt Hotel Booking Analytics](https://github.com/ahmmeddsalahh01/Egypt-Hotel-Booking-Analytics) | Power BI | Bookings, revenue, cancellations, channels, and guest behavior across Egyptian hotels 
+[Egypt Hotel Booking Analytics](https://github.com/ahmmeddsalahh01/Egypt-Hotel-Booking-Analytics)  Power BI  Bookings, revenue, cancellations, channels, and guest behavior across Egyptian hotels 
 
-[Kenzz Sales Analytics Dashboard](https://github.com/ahmmeddsalahh01/Kenzz-Sales-Analytics-Dashboard) | Power BI | Sales performance of a retail company across six dashboard pages
+[Kenzz Sales Analytics Dashboard](https://github.com/ahmmeddsalahh01/Kenzz-Sales-Analytics-Dashboard)  Power BI  Sales performance of a retail company across six dashboard pages
 
-[Bank Transactions Analytics](https://github.com/ahmmeddsalahh01/Bank-Transactions-Analytics) | Power BI | Transaction flows, branch performance, customer segments, channels, and risk |
+[Bank Transactions Analytics](https://github.com/ahmmeddsalahh01/Bank-Transactions-Analytics)  Power BI  Transaction flows, branch performance, customer segments, channels, and risk 
 
-[Clothing Brand Sales Analysis](https://github.com/ahmmeddsalahh01/Clothing-Brand-Sales-Analysis-Excel) | Excel, Power Pivot | Sales by category, product, store, and customer across 3,000 orders |
+[Clothing Brand Sales Analysis](https://github.com/ahmmeddsalahh01/Clothing-Brand-Sales-Analysis-Excel)  Excel, Power Pivot  Sales by category, product, store, and customer across 3,000 orders 
 
-[Food Delivery Performance](https://github.com/ahmmeddsalahh01/Food-Delivery-Performance-Excel) | Excel, Power Pivot | Sales, order funnel, delivery times, customers, restaurants, and riders |
+[Food Delivery Performance](https://github.com/ahmmeddsalahh01/Food-Delivery-Performance-Excel)  Excel, Power Pivot | Sales, order funnel, delivery times, customers, restaurants, and riders |=
 
  Let's connect
 
