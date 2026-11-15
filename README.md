@@ -12,6 +12,7 @@ Skills
 - Analysis: KPI design, trend analysis, customer and sales segmentation, business recommendations
 
 Featured Projects
+
 [Egypt Hotel Booking Analytics](https://github.com/ahmmeddsalahh01/Egypt-Hotel-Booking-Analytics)  Power BI  Bookings, revenue, cancellations, channels, and guest behavior across Egyptian hotels 
 
 [Kenzz Sales Analytics Dashboard](https://github.com/ahmmeddsalahh01/Kenzz-Sales-Analytics-Dashboard)  Power BI  Sales performance of a retail company across six dashboard pages
