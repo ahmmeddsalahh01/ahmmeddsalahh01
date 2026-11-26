@@ -15,7 +15,7 @@ Featured Projects
 
 [Egypt Hotel Booking Analytics](https://github.com/ahmmeddsalahh01/Egypt-Hotel-Booking-Analytics)  Power BI  Bookings, revenue, cancellations, channels, and guest behavior across Egyptian hotels 
 
-[Marketing Performance Analysis](https://github.com/ahmmeddsalahh01/Marketing-Performance-Analysis-Dashboard)  Power BI  Budget efficiency, platforms, pricing, subscriptions, and time trends across 10K marketing campaigns
+[Marketing Performance Analysis Dashboard](https://github.com/ahmmeddsalahh01/Marketing-Performance-Analysis-Dashboard)  Power BI  Budget efficiency, platforms, pricing, subscriptions, and time trends across 10K marketing campaigns
 
 [Kenzz Sales Analytics Dashboard](https://github.com/ahmmeddsalahh01/Kenzz-Sales-Analytics-Dashboard)  Power BI  Sales performance of a retail company across six dashboard pages
 
