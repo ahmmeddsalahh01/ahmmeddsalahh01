@@ -15,6 +15,8 @@ Featured Projects
 
 [Egypt Hotel Booking Analytics](https://github.com/ahmmeddsalahh01/Egypt-Hotel-Booking-Analytics)  Power BI  Bookings, revenue, cancellations, channels, and guest behavior across Egyptian hotels 
 
+[Marketing Performance Analysis](https://github.com/ahmmeddsalahh01/Marketing-Performance-Analysis-Dashboard)  Power BI  Budget efficiency, platforms, pricing, subscriptions, and time trends across 10K marketing campaigns
+
 [Kenzz Sales Analytics Dashboard](https://github.com/ahmmeddsalahh01/Kenzz-Sales-Analytics-Dashboard)  Power BI  Sales performance of a retail company across six dashboard pages
 
 [Bank Transactions Analytics](https://github.com/ahmmeddsalahh01/Bank-Transactions-Analytics)  Power BI  Transaction flows, branch performance, customer segments, channels, and risk 
@@ -23,7 +25,6 @@ Featured Projects
 
 [Food Delivery Performance](https://github.com/ahmmeddsalahh01/Food-Delivery-Performance-Excel)  Excel, Power Pivot | Sales, order funnel, delivery times, customers, restaurants, and riders
 
-[Marketing Performance Analysis](https://github.com/ahmmeddsalahh01/Marketing-Performance-Analysis-Dashboard)  Power BI  Budget efficiency, platforms, pricing, subscriptions, and time trends across 10K marketing campaigns
 
 I'm looking for a junior data analyst role. Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-salah-58a839379).
 <!--
