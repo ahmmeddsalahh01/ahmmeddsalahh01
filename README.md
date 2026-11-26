@@ -23,8 +23,7 @@ Featured Projects
 
 [Food Delivery Performance](https://github.com/ahmmeddsalahh01/Food-Delivery-Performance-Excel)  Excel, Power Pivot | Sales, order funnel, delivery times, customers, restaurants, and riders
 
-[Marketing Performance analysis Dashboard](https://github.com/ahmmeddsalahh01/Clothing-Brand-Sales-Analysis-Excel) An interactive Power BI dashboard that analyzes the performance of 10K marketing campaigns across Facebook, Snapchat, TikTok, and Instagram from 2022 to 2025.
- Let's connect
+[Marketing Performance Analysis](https://github.com/ahmmeddsalahh01/Marketing-Performance-Analysis-Dashboard)  Power BI  Budget efficiency, platforms, pricing, subscriptions, and time trends across 10K marketing campaigns
 
 I'm looking for a junior data analyst role. Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-salah-58a839379).
 <!--
